@@ -12,9 +12,10 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋, Eu me chamo João Gabriel e sou estudante de Sistemas de Informação na UFJF
-
-🔭 Estou procurando meu primeiro emprego, ou estágio, estou estudando para ser Desenvolvedor Full Stack.
+  Oi 👋, Eu me chamo João Gabriel, tenho 18 anos e moro em Juiz de Fora, Minas Gerais
+  
+  - 🍀 Sou estudante de Sistemas de Informação na UFJF
+  - 🔭 Estou procurando meu primeiro emprego, ou estágio, na área de programação
 </p>
 
 <!-- Links -->
@@ -30,8 +31,10 @@
 - [HTML & CSS - Landing Page](https://github.com/JG-Souza/Landing-Page1)
 
 
-  
+<p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   </div>
