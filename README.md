@@ -11,39 +11,28 @@
 <br>
 
 <!-- Presentation -->
-<p>
-  Oi 👋, Eu me chamo João Gabriel, tenho 19 anos e moro em Juiz de Fora, Minas Gerais
-  
-  - 🍀 Sou estudante de Sistemas de Informação na UFJF
-  - 🔭 Estou procurando meu primeiro emprego, ou estágio, na área de programação
-</p>
+## 🌱 Sobre Mim
 
-<!-- Links -->
+Meu nome é **João Gabriel**, tenho **19 anos** e sou um estudante de **Sistemas de Informação** na **UFJF**, morador de **Juiz de Fora, Minas Gerais**. Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor.
+
+## 📬 Vamos Conectar!
+
+Se você quer saber mais sobre minha trajetória profissional, trocar ideias ou explorar possíveis colaborações, fique à vontade para me adicionar no LinkedIn!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-souza-aa18a2300/)
 
-<!-- GithubStats -->
-![JG-Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=jg-souza&show_icons=true&theme=gotham)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Calculadora](https://github.com/JG-Souza/Calculadora1)
-- [HTML & CSS - Landing Page](https://github.com/JG-Souza/Landing-Page1)
-
-
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  </div>
-  <p align="left">
 
-</p>
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+### 🧑‍💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img width="12" />
@@ -51,44 +40,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12" />
-          
+</div>
 
-  <h3>Tools & Frameworks</h3>
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+### ⚙️ Frameworks & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="django logo"/>
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"/>
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"/>
-  <img width="12" />
-          
-          
-          
-          
-          
 </div>
 
-###
-</div>
-
-###
 
 
 
