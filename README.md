@@ -21,6 +21,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,fastapi,laravel,postgresql&theme=dark" />
   </div>
 </div>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Presentation -->
 ## 🌱 Sobre Mim
@@ -32,8 +34,6 @@ Meu nome é **João Gabriel**, tenho **19 anos** e sou um estudante de **Sistema
 Se você quer saber mais sobre minha trajetória profissional, trocar ideias ou explorar possíveis colaborações, fique à vontade para me adicionar no LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-souza-aa18a2300/)
-<!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
