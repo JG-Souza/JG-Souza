@@ -25,11 +25,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Presentation -->
-## 🌱 Sobre Mim
+## 🌱 About Me
 
 Meu nome é **João Gabriel**, tenho **19 anos** e sou um estudante de **Sistemas de Informação** na **UFJF**, morador de **Juiz de Fora, Minas Gerais**. Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor.
 
-## 📬 Vamos Conectar!
+## 📬 Contact
 
 Se você quer saber mais sobre minha trajetória profissional, trocar ideias ou explorar possíveis colaborações, fique à vontade para me adicionar no LinkedIn!
 
