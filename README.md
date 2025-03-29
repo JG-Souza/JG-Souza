@@ -11,14 +11,14 @@
 
   <div style="display: inline-block; margin: 20px; text-align: center;">
     <h3>⚙️ Frameworks and Tools</h3>
-    <img src="https://skillicons.dev/icons?i=flask,bootstrap,mysql,sqlite,vscode&theme=dark" />
-          <img src="https://skillicons.dev/icons?i=linux,ubuntu,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flask,bootstrap,mysql,sqlite,git&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,tailwind&theme=dark" />
     </a>
   </div>
 
   <div style="display: inline-block; margin: 20px; text-align: center;">
     <h3>🧑‍💻 Learning</h3>
-    <img src="https://skillicons.dev/icons?i=laravel,postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=laravel,postgresql,docker&theme=dark" />
   </div>
 </div>
 <!--divisor-->
