@@ -4,7 +4,7 @@
   <div style="display: inline-block; margin: 20px; text-align: center;">
     <h3>📖 Programing Languages </h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,php,cpp&theme=dark" />
       <br>
 
   </div>
@@ -18,7 +18,7 @@
 
   <div style="display: inline-block; margin: 20px; text-align: center;">
     <h3>🧑‍💻 Learning</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,fastapi,laravel,postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=laravel,postgresql&theme=dark" />
   </div>
 </div>
 <!--divisor-->
