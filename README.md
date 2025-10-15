@@ -1,44 +1,19 @@
-<h2 align="center">🔥 Skills</h2>
+# João Gabriel | Aspiring DevOps Engineer
 
-<div align="center">
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>📖 Programing Languages </h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,php,cpp&theme=dark" />
-      <br>
+Estudante de Sistemas de Informação (UFJF) com uma trajetória focada em me especializar em **DevOps**, partindo de uma sólida base em **Desenvolvimento Back-End**. Busco aprofundar meus conhecimentos em automação e infraestrutura para aprender a construir e manter softwares escaláveis e resilientes.
 
-  </div>
+---
 
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>⚙️ Frameworks and Tools</h3>
-    <img src="https://skillicons.dev/icons?i=flask,bootstrap,mysql,sqlite,git&theme=dark" />
-          <img src="https://skillicons.dev/icons?i=linux,ubuntu,tailwind&theme=dark" />
-    </a>
-  </div>
+### Foco & Stack
 
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>🧑‍💻 Learning</h3>
-    <img src="https://skillicons.dev/icons?i=laravel,postgresql,docker&theme=dark" />
-  </div>
-</div>
-<!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Minha jornada de aprendizado combina as práticas e ferramentas de DevOps com a experiência que adquiri em desenvolvimento Back-End.
 
-<!-- Presentation -->
-## 🌱 About Me
+-   **DevOps & Cloud:** Linux, Git, Docker, Kubernetes, Jenkins, Terraform e AWS.
+-   **Back-End:** Node.js (Express), Python (Flask/FastAPI), PHP (Laravel).
+-   **Bancos de Dados:** MySQL e PostgreSQL.
 
-Meu nome é **João Gabriel**, tenho **19 anos** e sou um estudante de **Sistemas de Informação** na **UFJF**, morador de **Juiz de Fora, Minas Gerais**. Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor.
+---
 
-## 📬 Contact
+### Contato
 
-Se você quer saber mais sobre minha trajetória profissional, trocar ideias ou explorar possíveis colaborações, fique à vontade para me adicionar no LinkedIn!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-souza-aa18a2300/)
-
-
-
-
-
-
-
-
+-   **LinkedIn**: [João Gabriel Souza](www.linkedin.com/in/jg-souza)
