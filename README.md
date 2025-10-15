@@ -1,4 +1,4 @@
-# João Gabriel | Aspiring DevOps Engineer
+# Aspiring DevOps Engineer
 
 Estudante de Sistemas de Informação (UFJF) com uma trajetória focada em me especializar em **DevOps**, partindo de uma sólida base em **Desenvolvimento Back-End**. Busco aprofundar meus conhecimentos em automação e infraestrutura para aprender a construir e manter softwares escaláveis e resilientes.
 
